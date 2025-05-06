@@ -29,15 +29,6 @@ Right now, I'm starting my first **role-tracking AI project** as part of my trai
 
 ---
 
-### 💬 Ask me about
-
-- My journey from manufacturing to software development  
-- How I optimized CNC workflows (before switching to code!)  
-- Learning programming from the ground up  
-- Why I find Bitcoin exciting from both a technical and societal perspective
-
----
-
 ### 📫 How to reach me
 
 - 📧 lukas.schiele.dev@proton.me  
@@ -46,6 +37,3 @@ Right now, I'm starting my first **role-tracking AI project** as part of my trai
 
 Before I started coding, I spent years improving manufacturing efficiency through real-world optimization – now I aim to do the same through clean, effective code.
 
----
-
-> _"Always curious, always improving — one line of code at a time."_
