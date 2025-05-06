@@ -25,14 +25,7 @@ Right now, I'm starting my first **role-tracking AI project** as part of my trai
 ### 👯 I’m looking to collaborate on
 
 - Beginner-friendly backend or AI-related projects  
-- Projects related to **Bitcoin** or decentralized technologies – I'm personally very interested in the Bitcoin ecosystem and would love to contribute in the future
-
----
-
-### 🤔 I’m looking for help with
-
-- Improving my testing and deployment skills  
-- Best practices for designing scalable backend systems
+- Projects related to **Bitcoin** only – I'm personally very interested in the Bitcoin ecosystem and would love to contribute in the future
 
 ---
 
@@ -50,14 +43,6 @@ Right now, I'm starting my first **role-tracking AI project** as part of my trai
 - 📧 lukas.schiele.dev@proton.me  
 
 ---
-
-### 😄 Pronouns
-
-He / Him
-
----
-
-### ⚡ Fun fact
 
 Before I started coding, I spent years improving manufacturing efficiency through real-world optimization – now I aim to do the same through clean, effective code.
 
