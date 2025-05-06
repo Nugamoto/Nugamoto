@@ -1,16 +1,66 @@
 ## Hi there 👋
 
-<!--
-**21Nuga/21Nuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Lukas**, a junior software developer in training with a background in CNC machining and process optimization. I'm currently enrolled in the **Software & AI Engineering Program** at Masterschool, where I'm specializing in **AI Engineering**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+
+- Python & Object-Oriented Programming  
+- Working with **Flask**, **FastAPI**, and **SQLAlchemy**
+- RESTful APIs and backend best practices  
+- Building AI-integrated projects using tools like **OpenAI** and **Gemini**
+
+Right now, I'm starting my first **role-tracking AI project** as part of my training, and looking forward to deepening my understanding of real-world software architecture.
+
+---
+
+### 🔭 I’m currently working on
+
+- **Masterblog-API** – a full-stack blogging platform with secure authentication, API documentation, and responsive frontend.  
+  [🔗 View project on GitHub](https://github.com/Nugamoto/Masterblog-API)
+
+---
+
+### 👯 I’m looking to collaborate on
+
+- Beginner-friendly backend or AI-related projects  
+- Projects related to **Bitcoin** or decentralized technologies – I'm personally very interested in the Bitcoin ecosystem and would love to contribute in the future
+
+---
+
+### 🤔 I’m looking for help with
+
+- Improving my testing and deployment skills  
+- Best practices for designing scalable backend systems
+
+---
+
+### 💬 Ask me about
+
+- My journey from manufacturing to software development  
+- How I optimized CNC workflows (before switching to code!)  
+- Learning programming from the ground up  
+- Why I find Bitcoin exciting from both a technical and societal perspective
+
+---
+
+### 📫 How to reach me
+
+- 📧 lukas.schiele.dev@proton.me  
+
+---
+
+### 😄 Pronouns
+
+He / Him
+
+---
+
+### ⚡ Fun fact
+
+Before I started coding, I spent years improving manufacturing efficiency through real-world optimization – now I aim to do the same through clean, effective code.
+
+---
+
+> _"Always curious, always improving — one line of code at a time."_
