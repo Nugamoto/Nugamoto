@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Lukas**, a junior software developer in training with a background in CNC machining and process optimization. I'm currently enrolled in the **Software & AI Engineering Program** at Masterschool, where I'm specializing in **AI Engineering**.
+I'm **Lukas**, a junior software developer in training with a background in CNC machining and process optimization. I'm currently enrolled in the **Software Engineering Program** at Masterschool, where I'm specializing in **AI Engineering**.
 
 ---
 
